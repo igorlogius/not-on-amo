@@ -1,7 +1,7 @@
-# Whats this? 
+# What's this? 
 
-Here are some signed addons which are either to special or dont seem to have drawn enough attenion on AMO for me to consider actively listing them there. 
+Here are some signed addons which are either too special or don't seem to have drawn enough attenion on AMO for me to consider actively listing them there. 
 
-Still, since rarely someone ask for something that matches, i'll keep this repo as backup/reference. 
+Still, since rarely someone ask for something that matches, I'll keep this repo as backup/reference. 
 
-And maybe i'll re-add them to AMO if i think one of them might be worth it. 
+And maybe I'll re-add them to AMO if I think one of them might be worth it. 
