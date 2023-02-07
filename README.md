@@ -10,6 +10,7 @@ And maybe I'll re-add them to AMO if I think one of them might be worth it.
 
 | Name | Description |
 | --- | --- |
+|clear_bookmark_folder| adds a context entry to bookmark folder to remove all element in them | 
 | container titler | adds the container title as a prefix to the window title |
 |force single window | prevenst the opening of multiple windows |
 | keep-newtab-with-pins | opens and focus a normal newtab when closing the last normal tab when pinned tabs exist | 
