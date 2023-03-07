@@ -10,6 +10,7 @@ And maybe I'll re-add them to AMO if I think one of them might be worth it.
 
 | Name | Description |
 | --- | --- |
+| run_in_tabs_gather_results | run a javascript snipplet inside multiple selected tabs and copy the output to the clipboard  |
 | close_bookmarked_tabs | adds a toolbar button that closes all tabs (in the current window) wich have urls that are already bookmarked |
 | quick_save | adds a context menu entry to skip the `Save As` dialog to save image or video files |
 |screenshot_changes|adds a toolbar button to monitors a site for changes and  makes continuous screenshots when a change is detected  |
