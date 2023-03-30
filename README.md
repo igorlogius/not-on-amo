@@ -1,6 +1,6 @@
 # What's this? 
 
-Here are some signed addons which are either too special or don't seem to have drawn enough attenion on AMO for me to consider actively listing them there. 
+Here are some signed addons which are either too special, don't seem to have drawn enough attention on AMO or have some other drawback/issue for me to consider actively listing them. 
 
 Still, since rarely someone ask for something that matches, I'll keep this repo as backup/reference. 
 
