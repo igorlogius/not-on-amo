@@ -13,7 +13,7 @@ And maybe I'll re-add them to AMO if I think one of them might be worth it.
 | Name | Description | Notes |
 | --- | --- | --- | 
 | run_in_tabs_gather_results | run javascript snipplets inside multiple tabs and copy the output to the clipboard  | need option to save the output to a file or a textarea/tab|
-| quick_save | add a context menu to skip the "Save As" dialog to save image or video files | needs shortcut for quick downloading |
+| quick_save | add a context menu to skip the "Save As" dialog to save image or video files | needs shortcut for quick downloading on hover |
 | unique_urls_visited_stats | popup stats of unique urls visited in the last seven days| needs configurable timespan and aggrigation level |
 
 ### Not considering for AMO
