@@ -8,20 +8,20 @@ And maybe I'll re-add them to AMO if I think one of them might be worth it.
 
 # Overview of Addons 
 
-| Name | Description |
-| --- | --- |
-| run_in_tabs_gather_results | run a javascript snipplet inside multiple selected tabs and copy the output to the clipboard  |
-| close_bookmarked_tabs | adds a toolbar button that closes all tabs (in the current window) wich have urls that are already bookmarked |
-| quick_save | adds a context menu entry to skip the `Save As` dialog to save image or video files |
-|screenshot_changes|adds a toolbar button to monitors a site for changes and  makes continuous screenshots when a change is detected  |
-|clear_bookmark_folder| adds a context entry to bookmark folder to remove all element in them | 
-| container_titler | adds the container title as a prefix to the window title |
-|force_single_window | prevenst the opening of multiple windows |
-| keep_newtab_with_pins | opens and focus a normal newtab when closing the last normal tab when pinned tabs exist | 
-|merge_sort_reduce | adds a button to merge all windows into one, sorts the tabs and remove duplicates|
-| rodc | run on download complete ... allows to execeucte a binary or script when a download completes (needs setup for native messaging to work)|
-|set_custom_focus| add focus rules for individual websites|
-|tabs_media_controller| adds a media control browser Action popup ... currently limited to DOM media which is still attached (works on youtube at least)|
-|select_container_tabs| quick way to select all tabs which are in one container|
-|toggle_tabs_audio| mark tabs and put them in a group to toggle the audio with one shortcut|
-|unique_urls_visited_stats | popup stats of unique urls visited in the last seven days| 
+| Name | Description | AMO?  |
+| --- | --- | --- |
+| run_in_tabs_gather_results | run a javascript snipplet inside multiple selected tabs and copy the output to the clipboard  | yes |
+| close_bookmarked_tabs | adds a toolbar button that closes all tabs (in the current window) wich have urls that are already bookmarked | yes | 
+| quick_save | adds a context menu entry to skip the `Save As` dialog to save image or video files | yes |
+| unique_urls_visited_stats | popup stats of unique urls visited in the last seven days| yes |
+| --- | --- | --- |
+| screenshot_changes|adds a toolbar button to monitors a site for changes and  makes continuous screenshots when a change is detected  | no  |
+| clear_bookmark_folder| adds a context entry to bookmark folder to remove all element in them | no  |
+| force_single_window | prevenst the opening of multiple windows | no |
+| keep_newtab_with_pins | opens and focus a normal newtab when closing the last normal tab when pinned tabs exist | no |
+| merge_sort_reduce | adds a button to merge all windows into one, sorts the tabs and remove duplicates| no |
+| container_titler | adds the container title as a prefix to the window title | no |
+| rodc | run programms when download complete | no |
+| set_custom_focus| no |
+| tabs_media_controller| adds a media control browser Action popup | no |
+| toggle_tabs_audio| mark tabs and put them in a group to toggle the audio with one shortcut| no |
