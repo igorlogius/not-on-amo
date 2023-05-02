@@ -19,6 +19,7 @@ And maybe I'll re-add them to AMO if I think one of them might be worth it.
 
 | Name | Description |
 | --- | --- | 
+| close_tab_on_url_match | auto close a tab whena url matches a regular expression ... with an optional delay  | 
 | click_element_shortcut | define custom shortcuts to click on custom elements on websites |
 | close_bookmarked_tabs | adds a toolbar button that closes all tabs (in the current window) wich have urls that are already bookmarked | 
 | screenshot_changes|adds a toolbar button to monitors a site for changes and  makes continuous screenshots when a change is detected  |
