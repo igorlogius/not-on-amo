@@ -19,6 +19,7 @@ And maybe I'll re-add them to AMO if I think one of them might be worth it.
 
 | Name | Description |
 | --- | --- | 
+| forward_urls | forwards/send urls via a GET request to http://127.0.0.1:8080 to log history / web activity |
 | close_tab_on_url_match | auto close a tab whena url matches a regular expression ... with an optional delay  | 
 | click_element_shortcut | define custom shortcuts to click on custom elements on websites |
 | close_bookmarked_tabs | adds a toolbar button that closes all tabs (in the current window) wich have urls that are already bookmarked | 
