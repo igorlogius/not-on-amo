@@ -4,6 +4,7 @@ Here are some signed addons which i currently think are either to special or hav
 
 | Name | Description |
 | --- | --- | 
+| list_feeds | Detect and list feeds (rss,atom,json) of any page |
 | bookmark_router | Place bookmarks into specific folders based on url regex matches | 
 | run_in_tabs_gather_results | run javascript snipplets inside multiple tabs and copy the output to the clipboard  | 
 | close_bookmarked_tabs | adds a toolbar button that closes all tabs (in the current window) wich have urls that are already bookmarked | 
