@@ -2,6 +2,13 @@
 
 Here are some signed addons which i currently dont host on https://addons.mozilla.org
 
+## I found a bug, have a feature request, suggestion or a question
+
+Please open an issue, and begin the issue with the addon you are referencing, like `[access_url_parts] ...`
+For request for new addons, please open an issue [here](https://github.com/igorlogius/igorlogius/issues/new)
+
+# Addon Overview 
+
 | Name | Description |
 | --- | --- | 
 | access_url_parts | Allows to quicky jump/open to a part of the current page url |
