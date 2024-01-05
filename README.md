@@ -11,6 +11,7 @@ For request for new addons, please open an issue [here](https://github.com/igorl
 
 | Name | Description |
 | --- | --- | 
+| automate_click  | automate click actions (depricated because of automa) | 
 | access_url_parts | Allows to quicky jump/open to a part of the current page url |
 | block-downloads | Prevents/Stops the download of files, good for people who tend to accidentally download stuff and click on it  |
 | block_suspicious_downloads | Blocks the download of a bunch of potentially nasty files by extension |
