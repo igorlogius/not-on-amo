@@ -11,6 +11,10 @@ For request for new addons, please open an issue [here](https://github.com/igorl
 
 | Name | Description |
 | --- | --- | 
+| open_right_beside | always open tabs right of the currently open tab (no exceptions!) | 
+| load_background_tabs_on_select | tabs opened in the background (CTRL+Click) will not load until activated/selected | 
+| limit_active_tabs | limit the amount of active tabs to a custome number , unloads other tabs by lastAccessed timestamp| 
+| bookmark_branch_porter | easily export and re-import a branch of your bookmark tree or the entire tree | 
 | visits_counter | show the amounts of times you visited a website before (wayback links included) |
 | automate_click  | automate click actions (depricated because of automa) | 
 | access_url_parts | Allows to quicky jump/open to a part of the current page url |
