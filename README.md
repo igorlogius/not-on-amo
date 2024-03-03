@@ -11,6 +11,7 @@ For request for new addons, please open an issue [here](https://github.com/igorl
 
 | Name | Description |
 | --- | --- | 
+| origin-lock | lock tabs to a specific origin/domain+port (does not prevent tabs from opening other tabs!) | 
 | inspect_duplicate_tabs | Shows the amount of duplicate tabs the currently active tab has and quickly move them into a seperate window to inspect/close/keep | 
 | open_right_beside | always open tabs right of the currently open tab (no exceptions!) | 
 | load_background_tabs_on_select | tabs opened in the background (CTRL+Click) will not load until activated/selected | 
