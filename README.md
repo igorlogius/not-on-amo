@@ -11,8 +11,8 @@ For request for new addons, please open an issue [here](https://github.com/igorl
 
 | Name | Description |
 | --- | --- | 
-| visits_counter | show the amounts of times you visited a website before (wayback links included) |
-| automate_click  | automate click actions (deprecated) | 
+| visits-counter | show the amounts of times you visited a website before (wayback links included) |
+| automate-click  | automate click actions (deprecated) | 
 | access-url-parts | allows to quicky jump/open to a part of the current page url |
 | bookmark-router | place bookmarks into specific folders based on url regex matches | 
 | clear-bookmark-folder| adds a context entry to bookmark folders to remove all element in them | 
