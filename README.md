@@ -1,12 +1,16 @@
+# Request a Feature / Report a bug / Get in contact?
+
+Please open an issue [here](https://github.com/igorlogius/igorlogius/issues/new/choose)
+
 # What's this? 
 
-Addons which are currently not host on https://addons.mozilla.org
+Addons which are currently not hosted on https://addons.mozilla.org
 
 # Overview 
 
 | Name | Description |
 | --- | --- | 
-| access-url-parts | allows to quicky jump/open to a part of the current page url |
+| access-url-parts | allows to quicky open to a part of the current page url |
 | automate-click  | automate click actions | 
 | block-downloads | stop downloads per default |
 | bookmark-router | place bookmarks into specific folders based on url regex matches | 
@@ -33,7 +37,7 @@ Addons which are currently not host on https://addons.mozilla.org
 | quick-save | download without save as ... |
 | rodc | run programms when download complete | 
 | screenshot-changes | adds a toolbar button to monitors a site for changes and  makes continuous screenshots when a change is detected  |
-| select-tabs-advanced | adds a multitude of options to highlight tabs (can be used consecutevely to filter down) |
+| select-tabs-advanced | adds a multitude of options to highlight tabs (can be used consecutively to filter down) |
 | send-to-cyberchef | just an addon to send data to a custom cyberchef instance for processing |
 | toggle-tabs-audio| mark tabs and put them in a group to toggle the audio with one shortcut| 
 | toolbar-countdown | adds a tiny countdown into the toolbar, that only shows the most significant denominator (days, hours, min, sec ) | 
